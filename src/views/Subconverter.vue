@@ -256,7 +256,6 @@ export default {
         },
         customBackend: {	  
           "localhost:25500 本地版": "http://localhost:25500/sub?",
-	  "now-subconverter-six-eta.vercel.app": "https://now-subconverter-six-eta.vercel.app/sub?",
           "sub-beta.vercel.app": "https://sub-beta.vercel.app/sub?",
           "subcon.dlj.tf(subconverter作者提供-稳定)":
             "https://subcon.dlj.tf/sub?",
