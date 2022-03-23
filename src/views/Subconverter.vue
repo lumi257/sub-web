@@ -255,6 +255,7 @@ export default {
           "自动判断客户端": "auto",
         },
         customBackend: {
+	  "now-subconverter-six-eta.vercel.app":"https://now-subconverter-six-eta.vercel.app/sub?",
           "localhost:25500 本地版": "http://localhost:25500/sub?",
           "sub-beta.vercel.app": "https://sub-beta.vercel.app/sub?",
           "subcon.dlj.tf(subconverter作者提供-稳定)":
